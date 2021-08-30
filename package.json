@@ -1,0 +1,9 @@
+{
+  "name": "firebase-lambda",
+  "description": "AWS Lambda for Firebase",
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^9.8.0",
+    "twilio": "^3.67.1"
+  }
+}
